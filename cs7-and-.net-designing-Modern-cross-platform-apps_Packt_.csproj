@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>cs7_and_.net_designing_Modern_cross_platform_apps_Packt_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
